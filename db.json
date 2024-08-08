@@ -1,0 +1,128 @@
+{
+  "categories": [
+    {
+      "name": "Electronics",
+      "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Home Appliances",
+      "image": "https://images.pexels.com/photos/1370082/pexels-photo-1370082.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 3,
+      "name": "Furniture",
+      "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 4,
+      "name": "Clothing",
+      "image": "https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg"
+    },
+    {
+      "name": "Books",
+      "image": "https://images.pexels.com/photos/694740/pexels-photo-694740.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Smartphone",
+      "image": "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": 300,
+      "category": "Electronics",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Air Conditioner",
+      "price": 700,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61CMjdN2ERL.jpg",
+      "category": "Home Appliances"
+    },
+    {
+      "id": 3,
+      "name": "Refrigerator",
+      "price": 2500,
+      "image": "https://mobileimages.lowes.com/productimages/d559af09-9108-4336-ba7d-682a6ada2b78/15368493.jpg",
+      "category": "Home Appliances"
+    },
+    {
+      "id": 4,
+      "name": "Sofa",
+      "price": 2400,
+      "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "category": "Furniture"
+    },
+    {
+      "name": "T-shirt",
+      "image": "https://images.pexels.com/photos/2062324/pexels-photo-2062324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "price": "230",
+      "category": "Clothing",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 1500,
+      "image": "https://cdn.tgdd.vn/Products/Images/44/311178/asus-vivobook-go-15-e1504fa-r5-nj776w-thumb-600x600.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 7,
+      "name": "Washing Machine",
+      "price": 800,
+      "image": "https://whirlpoolindia.vtexassets.com/arquivos/ids/164386/Xpert-care-Silver-lid-open-O3-6.5kg_1500x1500.jpg?v=638000290210600000",
+      "category": "Home Appliances"
+    },
+    {
+      "name": "Dining Table",
+      "image": "https://www.housingunits.co.uk/media/catalog/product/cache/60968cec045f20fb06ab5f7720001507/1/d/1d9fefc0a4b848a2b3264bf6ffb1b082.jpg",
+      "price": "1200",
+      "category": "Furniture",
+      "id": 8
+    },
+    {
+      "name": "Novel",
+      "image": "https://rukminim1.flixcart.com/image/300/300/xif0q/book/j/f/q/-original-imagnhh9gsj5hkkt.jpeg",
+      "price": 15,
+      "category": "Books",
+      "id": 9
+    },
+    {
+      "name": "Jacket",
+      "image": "https://tummachines.com/wp-content/uploads/2023/11/bomber-beige-1.jpg",
+      "price": 50,
+      "category": "Clothing",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$Igp8uLQyWtkmZrZhVJcbnuecToLMImtj5IPIW1X3BPYBUzeeVkgh2",
+      "name": "Admin",
+      "id": 1,
+      "role": "Admin"
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$v9dCnLmYkBtAybBzMnzD4.R3IEwa2K1gp0rNDIRWfhfVSPZ8o2Rvm",
+      "name": "ad",
+      "id": 2
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$EaYm4rvAKbnEts2h.xD/nu14Ow8ct0Gsae6KPLiQTjve3z4fwC1nO",
+      "name": "Mẫu 1",
+      "id": 3
+    },
+    {
+      "email": "admin3@gmail.com",
+      "password": "$2a$10$e6V7f1XhKHixMd52khKGcOUoPPPyjrGastmsl/Mk99Mc7KyoIbB1e",
+      "name": "aaaaaa",
+      "id": 4
+    }
+  ]
+}
